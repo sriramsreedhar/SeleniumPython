@@ -24,3 +24,6 @@ class Bot:
 
 automate = Bot('your_username', 'your_password') 
 automate.login()
+
+#Refresh page
+#In Python there is a method for doing this: driver.refresh()
